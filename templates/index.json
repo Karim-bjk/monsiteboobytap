@@ -59,7 +59,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logo_cosmopolitan.png",
-            "logo_width": 120,
+            "logo_width": 80,
             "link": ""
           }
         },
@@ -67,7 +67,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logo_elle.png",
-            "logo_width": 100,
+            "logo_width": 60,
             "link": ""
           }
         },
@@ -75,7 +75,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logo_marie_claire.png",
-            "logo_width": 120,
+            "logo_width": 80,
             "link": ""
           }
         },
@@ -83,7 +83,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logo_vogue.png",
-            "logo_width": 100,
+            "logo_width": 60,
             "link": ""
           }
         },
@@ -91,7 +91,7 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/logo_femme_actuelle.png",
-            "logo_width": 120,
+            "logo_width": 80,
             "link": ""
           }
         }
@@ -103,7 +103,11 @@
         "logo_gFBHC4",
         "logo_JL9f8W"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "img{mix-blend-mode:multiply}",
+        ".section-stack{padding:14px 0!important;margin:0!important;gap:6px!important}",
+        ".logo-list{padding:0!important;margin:0!important;row-gap:6px!important}"
+      ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
