@@ -138,6 +138,31 @@
         "overlay_opacity": 0
       }
     },
+    "before_after_image_cfKD6F": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avant/Après",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/ChatGPT_Image_20_aout_2026_01_40_59.png",
+        "before_image_mobile": "shopify://shop_images/BoobyTrap_apres_crop.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -735,6 +760,7 @@
     "image_with_text_overlay_DWp67U",
     "logo_list_EqTjAN",
     "image_with_text_overlay_6TbHeb",
+    "before_after_image_cfKD6F",
     "collection-list",
     "featured-collection",
     "impact-text",
