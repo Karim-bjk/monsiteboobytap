@@ -105,8 +105,8 @@
       ],
       "custom_css": [
         "img{mix-blend-mode:multiply}",
-        ".section-stack{padding:14px 0!important;margin:0!important;gap:6px!important}",
-        ".logo-list{padding:0!important;margin:0!important;row-gap:6px!important}"
+        ".section-stack{padding:0!important;margin:-40px 0!important;gap:6px!important}",
+        ".logo-list{margin:0!important;row-gap:6px!important}"
       ],
       "name": "Logo list",
       "settings": {
