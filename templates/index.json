@@ -104,7 +104,9 @@
         "logo_JL9f8W"
       ],
       "custom_css": [
-        "img {mix-blend-mode: multiply;}"
+        "img {mix-blend-mode: multiply;}",
+        "/* Réduire la hauteur de la section Vu dans */.section-stack {padding-top: 14px !important; padding-bottom: 14px !important; gap: 6px !important;}",
+        ".logo-list {padding-top: 0 !important; padding-bottom: 0 !important; row-gap: 6px !important;}"
       ],
       "name": "Logo list",
       "settings": {
