@@ -121,12 +121,12 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
-        "background": "#B1D8B8",
+        "background": "#E97768",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "#B1D8B8",
+        "logo_item_background": "#E97768",
         "logo_item_border": ""
       }
     },
