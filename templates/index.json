@@ -94,6 +94,46 @@
             "logo_width": 80,
             "link": ""
           }
+        },
+        "logo_gGKDKB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_cosmopolitan.png",
+            "logo_width": 80,
+            "link": ""
+          }
+        },
+        "logo_htR9HV": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_elle.png",
+            "logo_width": 60,
+            "link": ""
+          }
+        },
+        "logo_rGBTC3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_marie_claire.png",
+            "logo_width": 80,
+            "link": ""
+          }
+        },
+        "logo_U3tt7i": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_vogue.png",
+            "logo_width": 60,
+            "link": ""
+          }
+        },
+        "logo_6kJtC8": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo_femme_actuelle.png",
+            "logo_width": 80,
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -101,13 +141,18 @@
         "logo_Ebz7FE",
         "logo_GiUqNc",
         "logo_gFBHC4",
-        "logo_JL9f8W"
+        "logo_JL9f8W",
+        "logo_gGKDKB",
+        "logo_htR9HV",
+        "logo_rGBTC3",
+        "logo_U3tt7i",
+        "logo_6kJtC8"
       ],
       "custom_css": [
-        "img{mix-blend-mode:multiply}",
-        ".section-stack{padding:0!important;margin:-40px 0!important;gap:6px!important;overflow:hidden!important}",
-        ".logo-list{display:flex!important;flex-wrap:nowrap!important;width:max-content!important;margin:0!important;animation:btscroll 25s linear infinite}",
-        ".logo-list:hover{animation-play-state:paused}"
+        "img {mix-blend-mode: multiply;}",
+        ".section-stack {padding: 0 !important; margin: -40px 0 !important; gap: 6px !important; overflow: hidden !important;}",
+        ".logo-list {display: flex !important; flex-wrap: nowrap !important; width: max-content !important; margin: 0 !important; animation: btscroll 25s linear infinite;}",
+        ".logo-list:hover {animation-play-state: paused;}"
       ],
       "name": "Logo list",
       "settings": {
