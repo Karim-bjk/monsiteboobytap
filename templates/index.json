@@ -110,6 +110,10 @@
         "logo_gFBHC4",
         "logo_JL9f8W"
       ],
+      "custom_css": [
+        ".logo-list img,.logo-list__item img {mix-blend-mode: multiply; background: transparent !important;}",
+        ".logo-list__item {background: transparent !important;}"
+      ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
