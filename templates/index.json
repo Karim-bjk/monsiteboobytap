@@ -104,9 +104,10 @@
         "logo_JL9f8W"
       ],
       "custom_css": [
-        "img {mix-blend-mode: multiply;}",
-        ".section-stack {padding: 0 !important; margin: -40px 0 !important; gap: 6px !important;}",
-        ".logo-list {margin: 0 !important; row-gap: 6px !important;}"
+        "img{mix-blend-mode:multiply}",
+        ".section-stack{padding:0!important;margin:-40px 0!important;gap:6px!important;overflow:hidden!important}",
+        ".logo-list{display:flex!important;flex-wrap:nowrap!important;width:max-content!important;margin:0!important;animation:btscroll 25s linear infinite}",
+        ".logo-list:hover{animation-play-state:paused}"
       ],
       "name": "Logo list",
       "settings": {
