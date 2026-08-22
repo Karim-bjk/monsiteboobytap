@@ -111,8 +111,7 @@
         "logo_JL9f8W"
       ],
       "custom_css": [
-        ".logo-list img,.logo-list__item img {mix-blend-mode: multiply; background: transparent !important;}",
-        ".logo-list__item {background: transparent !important;}"
+        "img {mix-blend-mode: multiply;}"
       ],
       "name": "Logo list",
       "settings": {
@@ -127,7 +126,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "logo_item_background": "",
+        "logo_item_background": "#B1D8B8",
         "logo_item_border": ""
       }
     },
