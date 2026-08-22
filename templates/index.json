@@ -21,7 +21,14 @@
         "heading_rG7gfF": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "La transpiration des seins est un problème.",
+            "heading_tag": "h1"
+          }
+        },
+        "heading_Qgz3y6": {
+          "type": "heading",
+          "settings": {
+            "text": "Nous sommes la solution.",
             "heading_tag": "h1"
           }
         },
@@ -35,6 +42,7 @@
       "block_order": [
         "subheading_qDChAp",
         "heading_rG7gfF",
+        "heading_Qgz3y6",
         "richtext_4DG6dP"
       ],
       "name": "Image with text overlay",
