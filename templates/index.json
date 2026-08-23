@@ -16,14 +16,14 @@
           "type": "heading",
           "settings": {
             "text": "La transpiration des seins est un problème.",
-            "heading_tag": "h3"
+            "heading_tag": "h2"
           }
         },
         "heading_Qgz3y6": {
           "type": "heading",
           "settings": {
             "text": "Nous sommes la solution.",
-            "heading_tag": "h3"
+            "heading_tag": "h2"
           }
         },
         "subheading_qDChAp": {
@@ -50,7 +50,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "overlay_opacity": 30
       }
     },
     "logo_list_EqTjAN": {
