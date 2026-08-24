@@ -17,7 +17,7 @@
     "block_shadow_vertical_offset": 18,
     "background": "#f0f0f0",
     "text_color": "#1a1a1a",
-    "header_background": "#F1A8A4",
+    "header_background": "#FAEEE6",
     "header_text_color": "#1a1a1a",
     "footer_background": "#ffffff",
     "footer_text_color": "#1a1a1a",
@@ -138,7 +138,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "@keyframes btscroll{to{transform:translateX(-50%)}}"
+      "@keyframes btscroll {to {transform: translateX(-50%); }}"
     ]
   }
 }
