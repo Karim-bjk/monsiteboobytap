@@ -42,7 +42,7 @@
         "scrolling_speed": 10,
         "background": "#AFD776",
         "background_gradient": "",
-        "text_color": "#FFFFFF"
+        "text_color": "#000000"
       }
     },
     "header": {
@@ -50,7 +50,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Booby_Trap.png",
+        "logo": "shopify://shop_images/17.png",
         "logo_max_width": 180,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
