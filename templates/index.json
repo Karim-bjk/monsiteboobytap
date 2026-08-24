@@ -108,6 +108,19 @@
         "text_color": ""
       }
     },
+    "custom_liquid_kYeXpn": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"cp-sec\">\n  <h2 class=\"cp-title\">Comment le porter</h2>\n  <div class=\"cp-grid\">\n\n    <div class=\"cp-col\">\n      <div class=\"cp-imgwrap\"><img src=\"https://cdn.shopify.com/s/files/1/1035/0870/5615/files/ChatGPT_Image_19_aout_2026_22_10_56.png?v=1787612323\" alt=\"Insérer\" loading=\"lazy\"></div>\n      <div class=\"cp-step\">\n        <span class=\"cp-num\"><svg class=\"cp-fruit\" viewBox=\"0 0 40 40\"><circle cx=\"20\" cy=\"20\" r=\"19\" fill=\"#F6C6A0\"/><circle cx=\"20\" cy=\"20\" r=\"16.5\" fill=\"#FBEFE6\"/><circle cx=\"20\" cy=\"20\" r=\"14\" fill=\"#EE8E77\"/><g stroke=\"#FBEFE6\" stroke-width=\"1.5\"><line x1=\"20\" y1=\"6\" x2=\"20\" y2=\"34\"/><line x1=\"6\" y1=\"20\" x2=\"34\" y2=\"20\"/><line x1=\"10\" y1=\"10\" x2=\"30\" y2=\"30\"/><line x1=\"30\" y1=\"10\" x2=\"10\" y2=\"30\"/></g></svg><span class=\"cp-n\">1</span></span>\n        <h3 class=\"cp-h\">Insérer</h3>\n      </div>\n      <p class=\"cp-desc\">Placez votre Booby Trap à l'intérieur de votre soutien-gorge de sport, la partie la plus large en bas, là où la transpiration s'accumule habituellement.</p>\n    </div>\n\n    <div class=\"cp-col\">\n      <div class=\"cp-imgwrap\"><img src=\"https://cdn.shopify.com/s/files/1/1035/0870/5615/files/ChatGPT_Image_19_aout_2026_22_15_22.png?v=1787612323\" alt=\"Portez et partez\" loading=\"lazy\"></div>\n      <div class=\"cp-step\">\n        <span class=\"cp-num\"><svg class=\"cp-fruit\" viewBox=\"0 0 40 40\"><circle cx=\"20\" cy=\"20\" r=\"19\" fill=\"#F6C6A0\"/><circle cx=\"20\" cy=\"20\" r=\"16.5\" fill=\"#FBEFE6\"/><circle cx=\"20\" cy=\"20\" r=\"14\" fill=\"#EE8E77\"/><g stroke=\"#FBEFE6\" stroke-width=\"1.5\"><line x1=\"20\" y1=\"6\" x2=\"20\" y2=\"34\"/><line x1=\"6\" y1=\"20\" x2=\"34\" y2=\"20\"/><line x1=\"10\" y1=\"10\" x2=\"30\" y2=\"30\"/><line x1=\"30\" y1=\"10\" x2=\"10\" y2=\"30\"/></g></svg><span class=\"cp-n\">2</span></span>\n        <h3 class=\"cp-h\">Portez et partez</h3>\n      </div>\n      <p class=\"cp-desc\">Faites du sport, allaitez, surmontez une bouffée de chaleur… et tout le reste. Votre Booby Trap est conçu pour vous accompagner dans tous vos mouvements.</p>\n    </div>\n\n    <div class=\"cp-col\">\n      <div class=\"cp-imgwrap\"><img src=\"https://cdn.shopify.com/s/files/1/1035/0870/5615/files/ChatGPT_Image_19_aout_2026_22_29_38.png?v=1787612323\" alt=\"Laver et réutiliser\" loading=\"lazy\"></div>\n      <div class=\"cp-step\">\n        <span class=\"cp-num\"><svg class=\"cp-fruit\" viewBox=\"0 0 40 40\"><circle cx=\"20\" cy=\"20\" r=\"19\" fill=\"#F6C6A0\"/><circle cx=\"20\" cy=\"20\" r=\"16.5\" fill=\"#FBEFE6\"/><circle cx=\"20\" cy=\"20\" r=\"14\" fill=\"#EE8E77\"/><g stroke=\"#FBEFE6\" stroke-width=\"1.5\"><line x1=\"20\" y1=\"6\" x2=\"20\" y2=\"34\"/><line x1=\"6\" y1=\"20\" x2=\"34\" y2=\"20\"/><line x1=\"10\" y1=\"10\" x2=\"30\" y2=\"30\"/><line x1=\"30\" y1=\"10\" x2=\"10\" y2=\"30\"/></g></svg><span class=\"cp-n\">3</span></span>\n        <h3 class=\"cp-h\">Laver et réutiliser</h3>\n      </div>\n      <p class=\"cp-desc\">Après utilisation, lavez en machine à l'eau froide (de préférence dans un sac de lavage Booby Trap), puis réutilisez pour profiter d'une sensation de sécheresse accrue.</p>\n    </div>\n\n  </div>\n</div>\n\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,900&display=swap');\n  .cp-sec{--rose:#FAEEE6;--pample:#E97768;--ink:#1A1A1A;width:100vw;max-width:100vw;margin-left:calc(50% - 50vw);background:var(--rose);padding:64px 20px;text-align:center;}\n  .cp-title{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(28px,4.4vw,44px);color:var(--pample);margin:0 0 40px;}\n  .cp-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:34px;max-width:1080px;margin:0 auto;}\n  .cp-col{display:flex;flex-direction:column;align-items:center;}\n  .cp-imgwrap{width:100%;aspect-ratio:1/1;border:3px solid var(--ink);border-radius:22px;overflow:hidden;margin-bottom:18px;background:#fff;}\n  .cp-imgwrap img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block;}\n  .cp-step{display:flex;align-items:center;justify-content:center;gap:12px;margin-bottom:10px;}\n  .cp-num{position:relative;flex:0 0 auto;width:44px;height:44px;}\n  .cp-fruit{width:100%;height:100%;display:block;}\n  .cp-n{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-family:'Fraunces',serif;font-weight:900;font-size:19px;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.45);}\n  .cp-h{font-family:'Fraunces',serif;font-weight:900;font-size:23px;color:var(--ink);margin:0;}\n  .cp-desc{font-family:system-ui,-apple-system,sans-serif;color:#555;font-size:15px;line-height:1.55;max-width:320px;margin:0;}\n  @media(max-width:760px){\n    .cp-grid{grid-template-columns:1fr;gap:36px;}\n    .cp-sec{padding:48px 16px;}\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -180,6 +193,7 @@
     "image_with_text_overlay_6TbHeb",
     "custom_liquid_dXwXfc",
     "custom_liquid_KjAJH4",
+    "custom_liquid_kYeXpn",
     "faq",
     "custom_liquid_xGL9yF"
   ]
