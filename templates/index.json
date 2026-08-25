@@ -15,27 +15,19 @@
         "heading_rG7gfF": {
           "type": "heading",
           "settings": {
-            "text": "La transpiration des seins est un problème.",
-            "heading_tag": "h1"
-          }
-        },
-        "heading_Qgz3y6": {
-          "type": "heading",
-          "settings": {
-            "text": "Nous sommes la solution.",
+            "text": "Le piège parfait contre la transpiration des seins.",
             "heading_tag": "h1"
           }
         },
         "subheading_qDChAp": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Le premier séparateur qui garde vos seins au sec, à l'aise et en confiance — au sport comme au quotidien."
           }
         }
       },
       "block_order": [
         "heading_rG7gfF",
-        "heading_Qgz3y6",
         "subheading_qDChAp"
       ],
       "name": "Image with text overlay",
