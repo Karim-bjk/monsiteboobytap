@@ -212,6 +212,19 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "custom_liquid_fiftkQ": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"btstick\">\n  <button class=\"btstick__btn\" id=\"btStickBtn\">Choisir la forme qui me convient</button>\n</div>\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,900&display=swap');\n  .btstick{display:none;}\n  @media(max-width:768px){\n    .btstick{display:block;position:fixed;left:0;right:0;bottom:0;z-index:9998;background:#FFFFFF;padding:10px 14px calc(10px + env(safe-area-inset-bottom));box-shadow:0 -6px 22px rgba(0,0,0,.14);}\n    .btstick__btn{width:100%;font-family:'Fraunces',serif;font-weight:900;font-size:15px;color:#1A1A1A;background:#FBE986;border:2px solid #1A1A1A;border-radius:999px;padding:15px;cursor:pointer;line-height:1.2;}\n    .btstick__btn:active{transform:scale(.98);}\n  }\n</style>\n<script>\n(function(){\n  var b=document.getElementById('btStickBtn'); if(!b) return;\n  b.addEventListener('click',function(){\n    var t=document.querySelector('.fs-sec');\n    if(t){ t.scrollIntoView({behavior:'smooth',block:'start'}); }\n  });\n})();\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -225,6 +238,7 @@
     "custom_liquid_LApYWm",
     "custom_liquid_9xz6G7",
     "custom_liquid_C4PYY9",
-    "faq"
+    "faq",
+    "custom_liquid_fiftkQ"
   ]
 }
