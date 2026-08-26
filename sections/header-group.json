@@ -40,7 +40,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#A4D867",
+        "background": "#a4d867",
         "background_gradient": "",
         "text_color": "#000000"
       }
@@ -50,7 +50,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/17.png",
+        "logo": "shopify://shop_images/Booby_Trap.png",
         "logo_max_width": 180,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
