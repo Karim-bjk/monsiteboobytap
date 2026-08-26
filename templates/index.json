@@ -15,7 +15,7 @@
         "liquid_kczxQH": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"hero-title\">Le piège parfait <span>contre la transpiration des seins.</span></div>\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,900&display=swap');\n  .hero-title{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(30px,5vw,52px);line-height:1.12;color:#fff;text-align:center;margin:0;}\n  .hero-title span{color:#E97768;}\n</style>"
+            "liquid": "<div class=\"hero-title\">L'innovation inédite <span>pour gérer la transpiration des seins.</span></div>\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,900&display=swap');\n  .hero-title{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(30px,5vw,52px);line-height:1.12;color:#fff;text-align:center;margin:0;}\n  .hero-title span{color:#E97768;}\n</style>"
           }
         },
         "subheading_qDChAp": {
